@@ -1,7 +1,6 @@
 # 2023년 1월 31일
 
 ## Git에 작업물을 올렸으나 잘못올려 Repositroy를 터트려 실수가 반복되지 않도록 Git에 대한 추가적인 공부 <br>
-## 출처 : https://sloth9143.github.io/git-basic-command/ (알아야 될 내용이 많음)<br>
 
 ### ● Git
 정의 : 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 분산 버전 관리 시스템<br>
@@ -38,3 +37,5 @@
         저장소 생성시 master banch 생성 / 배포 가능한 상태만을 관리, commit 시 태그를 사용하여 배포 번호를 기록<br>
 - Develop Branch : 다음 출시 버전을 개발하는 브랜치 (개발 ) ( 병합 대상 ) / 이 브랜치를 기반으로 개발을 진행<br>
 - Feature Branch : 기능을 개발하는 브랜치 / 개발 완료 시 Develop Branch로 병합 / 공유할 필요가 없어 원격으로 관리 X<br>
+
+## 출처 : https://sloth9143.github.io/git-basic-command/
